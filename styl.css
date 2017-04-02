@@ -1,0 +1,10 @@
+body {
+    font-size: 18px;
+    font-family: "Source Sans Pro", sans-serif;
+    color: #111;
+    background-color: #eee;
+
+    max-width: 800px;
+    margin: 10px auto;
+}
+
