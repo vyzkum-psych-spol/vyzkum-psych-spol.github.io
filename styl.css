@@ -1,10 +1,23 @@
 body {
     font-size: 18px;
     font-family: "Source Sans Pro", sans-serif;
+    line-height: 1.5;
     color: #111;
-    background-color: #eee;
 
-    max-width: 800px;
-    margin: 10px auto;
+    margin: 0px;
 }
 
+h1, h2, h3 {
+    line-height: 1.2;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+#obalka {
+    max-width: 900px;
+    margin: 0px auto;
+    padding: 50px;
+    background-color: #efefef;
+}
