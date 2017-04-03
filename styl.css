@@ -1,5 +1,5 @@
 body {
-    font-size: 18px;
+    font-size: 20px;
     font-family: "Source Sans Pro", sans-serif;
     line-height: 1.5;
     color: #111;
@@ -13,12 +13,28 @@ h1, h2, h3 {
 
 h1 {
     margin-top: 0px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
 #obalka {
-    max-width: 900px;
+    max-width: 950px;
     margin: 0px auto;
     padding: 50px;
-    background-color: #efefef;
+    background-color: #f4f4f4;
 }
+
+#osobni {
+    text-align: right;
+}
+
+#osobni p {
+    margin: 0px;
+}
+
+hr {
+    margin: 25px 0px;
+    border-color: #eee;
+    background-color: #eee;
+}
+
