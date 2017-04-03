@@ -3,7 +3,8 @@ body {
     font-family: "Source Sans Pro", sans-serif;
     line-height: 1.5;
     color: #111;
-
+    /* odpovídá motivu Google Forms */
+    background-color: rgb(224, 242, 241);
     margin: 0px;
 }
 
@@ -27,7 +28,7 @@ h2 {
     max-width: 920px;
     margin: 0px auto;
     padding: 50px;
-    background-color: #f4f4f4;
+    background-color: #f9f9f9;
 }
 
 #osobni {
