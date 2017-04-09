@@ -10,7 +10,7 @@ body {
 
 h1, h2, h3 {
     line-height: 1.2;
-    color: #333;
+    color: rgb(0, 150, 136);
 }
 
 h1 {
@@ -22,13 +22,15 @@ h1 {
 h2 {
     margin-top: 25px;
     margin-bottom: 15px;
+    font-size: 1.3em;
 }
 
 #obalka {
     max-width: 920px;
     margin: 0px auto;
-    padding: 25px 50px;
-    background-color: #f9f9f9;
+    padding: 50px 75px;
+    /* background-color: #f9f9f9; */
+    background-color: #fff;
 }
 
 #osobni {
